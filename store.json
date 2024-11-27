@@ -1,0 +1,32 @@
+{
+  "product": [
+    {
+      "id": "prod01",
+      "productName": "cello pen",
+      "specification": "blue ball pen",
+      "manufacture": "cello pvt ltd",
+      "quantity": "300",
+      "price": 10,
+      "inStock": "true",
+      "in stock": "true"
+    },
+    {
+      "id": "prod02",
+      "productName": "NoteBook",
+      "specification": "300 pages",
+      "manufacture": "Classmate",
+      "quantity": "250",
+      "price": "45",
+      "inStock": "true"
+    },
+    {
+      "id": "prod03",
+      "productName": "NoteBook",
+      "specification": "300 pages",
+      "manufacture": "Classmate",
+      "quantity": "250",
+      "price": "45",
+      "inStock": "true"
+    }
+  ]
+}

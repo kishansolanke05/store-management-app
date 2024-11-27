@@ -1,0 +1,6 @@
+.backgrround{
+  background-image: url('D:\reactprojectworkpace\store-management-app\public\assets\background.jpg');
+  height: 750px;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
